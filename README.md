@@ -2,5 +2,5 @@
 
 Bem vindo ao projeto **GamePlay** 
 
-Esse projeto é baseado nas aulas de PROGMOVD e do bootcam da **Next Level Week Together** da Rocketseat. 
+Esse projeto é baseado nas aulas de PROGMOVD e do bootcamp da **Next Level Week Together** da Rocketseat. 
 
