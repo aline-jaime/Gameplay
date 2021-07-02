@@ -1,2 +1,7 @@
-# Gameplay
-Projeto para o trabalho de PROGMOVD
+# Gameplay# Olá 👋
+
+Bem vindo ao projeto **GamePlay** 
+
+Esse projeto é baseado nas aulas de PROGMOVD e do bootcam da **Next Level Week Together** da Rocketseat. 
+
+
